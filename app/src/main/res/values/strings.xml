@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="dialog_message">Are up sure you wish to clear the screen?</string>
+    <string name="dialog_title">Clear Screen</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="choose_color">Choose a color</string>
+</resources>

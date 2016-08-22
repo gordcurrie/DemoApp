@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/clear"
+        android:title="clear"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="always" />
+    <item android:id="@+id/color"
+        android:title="color"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="always" />
+    <item android:id="@+id/share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="share"
+        app:showAsAction="always"/>
+    <item android:id="@+id/cat"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="cat"
+        app:showAsAction="always"/>
+</menu>
